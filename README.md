@@ -15,3 +15,6 @@
 ## 只要操作完这一步，插件列表中就会立刻出现!
 <img width="1901" height="811" alt="image" src="https://github.com/user-attachments/assets/10fb7e82-d8fe-46d3-ba33-4998cada690b" />
 <img width="400" height="473" alt="image" src="https://github.com/user-attachments/assets/7fff4030-1f9b-4754-95c7-4177bac1f5a3" />
+<img width="400" height="473" alt="a94b84693e2efd1a591e7969dfc0248c" src="https://github.com/user-attachments/assets/cf41fdfd-ac56-454d-bcb3-c4cb8ca3b493" />
+<img width="400" height="473" alt="bf063c4fa9870192907094a12a660414" src="https://github.com/user-attachments/assets/073cfd14-ed42-46f3-b1af-5111680af491" />
+
